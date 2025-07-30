@@ -55,19 +55,21 @@ Install the required Python libraries:
 
 ```bash
 pip install streamlit opencv-python mediapipe numpy pyttsx3
+```
 
 ### ▶️ Run the App
-
+```bash
 streamlit run your_app_filename.py
+```
 
-
-🗃️ Project Structure
-
+###🗃️ Project Structure
+```bash
 AI-Workout-Tracker/
 │
 ├── Pushup.jpg                     # Header image for UI
 ├── your_app_filename.py          # Main application file
 └── user_logs/                    # Folder containing user CSV workout logs
     └── john_doe_log.csv          # Example log file
+```
 
 
