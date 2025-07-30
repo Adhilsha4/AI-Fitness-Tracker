@@ -59,7 +59,7 @@ pip install streamlit opencv-python mediapipe numpy pyttsx3
 
 ### ▶️ Run the App
 ```bash
-streamlit run your_app_filename.py
+streamlit run project_workout.py
 ```
 
 ### 🗃️ Project Structure
