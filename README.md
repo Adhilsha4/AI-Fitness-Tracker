@@ -62,7 +62,7 @@ pip install streamlit opencv-python mediapipe numpy pyttsx3
 streamlit run your_app_filename.py
 ```
 
-###🗃️ Project Structure
+### 🗃️ Project Structure
 ```bash
 AI-Workout-Tracker/
 │
